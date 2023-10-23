@@ -1,8 +1,6 @@
 <h1>
 <div style="font-size: 24px;">
-    <a href="https://www.dio.me/">
-        <img align="center" width="30px" src="https://i.imgur.com/42Bc5i3.png">
-    </a>
+    <img align="center" width="30px" src="https://i.imgur.com/42Bc5i3.png">
     <span>Repositório de Códigos em Kotlin</span>
 </div>
 </h1>
